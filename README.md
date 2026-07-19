@@ -110,7 +110,18 @@ jupyter notebook notebooks/telecom_churn_analysis.ipynb
 | Annualized Revenue at Risk | ~$1.67M |
 | Total CLTV at Risk | $7.75M |
 
-## 🖼️ Diagnostic Dashboard
+## 🖼️ Visualizations
+
+**Churn by Contract Type**
+![Churn by Contract](images/churn_by_contract.png)
+
+**Cancellation Reasons by Category**
+![Churn Reasons Category](images/churn_reasons_category.png)
+
+**Feature Correlation Heatmap**
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+**Full Diagnostic Dashboard**
 ![Churn Dashboard](images/churn_dashboard.png)
 
 ## 🚀 Future Improvements
