@@ -1,0 +1,14 @@
+# Data files - too large / shouldn't be public
+data/raw/*.xlsx
+data/raw/*.db
+
+# Jupyter checkpoint files - auto-generated, not needed
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-generated files
+.DS_Store
+Thumbs.db
