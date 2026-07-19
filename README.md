@@ -1,6 +1,6 @@
-\# 📉 Telecom Customer Churn Analysis
+# 📉 Telecom Customer Churn Analysis
 
-\### Diagnosing why customers leave, quantifying revenue at risk, and identifying where to intervene first
+### Diagnosing why customers leave, quantifying revenue at risk, and identifying where to intervene first
 
 
 
