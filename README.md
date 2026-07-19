@@ -1,4 +1,4 @@
-﻿# 📉 Telecom Customer Churn Analysis
+# 📉 Telecom Customer Churn Analysis
 ### Diagnosing why customers leave, quantifying revenue at risk, and identifying where to intervene first
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
@@ -69,6 +69,8 @@ Subscription revenue depends on retention as much as acquisition. This project a
 5. Strengthen competitive positioning and proactive retention offers, since competitor pressure — not price — is the leading driver of churn.
 
 ## 📁 Folder Structure
+
+```
 telecom-customer-churn-analysis/
 ├── README.md
 ├── requirements.txt
@@ -78,10 +80,11 @@ telecom-customer-churn-analysis/
 ├── notebooks/
 │   └── telecom_churn_analysis.ipynb
 └── images/
-├── churn_by_contract.png
-├── churn_reasons_category.png
-├── correlation_heatmap.png
-└── churn_dashboard.png
+    ├── churn_by_contract.png
+    ├── churn_reasons_category.png
+    ├── correlation_heatmap.png
+    └── churn_dashboard.png
+```
 
 ## ▶️ How to Run
 ```bash
