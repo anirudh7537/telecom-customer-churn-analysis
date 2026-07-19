@@ -172,7 +172,7 @@ telecom-customer-churn-analysis/
 
 ```bash
 
-git clone https://github.com/<your-username>/telecom-customer-churn-analysis.git
+git clone https://github.com/anirudh7537/telecom-customer-churn-analysis.git
 
 cd telecom-customer-churn-analysis
 
